@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  .animated-title {
+    animation: title-animation 2s ease-in-out;
+  }
+  
+  @keyframes title-animation {
+  }
+  
